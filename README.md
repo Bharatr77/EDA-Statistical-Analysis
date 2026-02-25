@@ -1,4 +1,4 @@
-# EDA-Statistical-Analysis
+# Exploratory-Data-Analysis
 Overview
 This project showcases a comprehensive Exploratory Data Analysis (EDA) on a given dataset. It includes data cleaning, handling missing values, detecting and treating outliers, feature scaling, encoding categorical variables, and generating insights through visualizations.
 
